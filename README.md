@@ -1,5 +1,5 @@
 #Guess it! 
 
-###A browser based game using Angular2 and Google API
+##A browser based game using Angular and Google API
 
-Project will likely start once https://github.com/yiqu/angular2-example-github-users refactoring is complete.
+Project will likely start once https://github.com/yiqu/searchit refactoring is complete.
