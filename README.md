@@ -1,4 +1,4 @@
-# Guess it! 
+# Guessit
 
 
 ## Prerequisites to Build Project
