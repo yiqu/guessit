@@ -1,4 +1,4 @@
-# Guess it! 
+# Guess it!!
 
 ## A browser based game using Angular and Google API
 
