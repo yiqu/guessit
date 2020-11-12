@@ -1,13 +1,9 @@
 # Guess it!!
 
-## A browser based game using Angular and Google API
-
-Project will likely start once https://github.com/yiqu/searchit refactoring is complete.
 
 ## Prerequisites to Build Project
 
-Both the CLI and generated project have dependencies that require Node 6.9.0 or higher, together
-with NPM 3 or higher.
+
 
 ## Installation
 
